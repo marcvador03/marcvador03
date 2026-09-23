@@ -1,10 +1,21 @@
-My name is Marc, currently full-time student at 42 Barcelona school. After +15 years working as a leader in the Supply Chain/Transportation area for a BIG7, time had come for a big change!
-I joined 42 Barcelona (https://www.42barcelona.com/es/) in June 2024, and loving the learning process :) I am currently in the Core Cursus for 42, mainly focusing on C, C++, and overall learning learn fast and untangle unforeseen problems. 
-I'll be maintaining this github to expose my school projects and my owns, looking forward for your comments!
+# Hi there 👋, I'm Marc Fleury
 
-You can reach me at mfleury03@free.fr or www.linkedin.com/in/marc-fleury-5591052a
+🔭 Currently working on **reinventing Budget and Financial applications, building fundamentals as an Open-Source library in C++20 / Go**. More to come!
+🌱 I’m learning **C++20, Go, Python, SQL, and Product Development**
+💬 Ask me about **C, Docker, C++, Go, Project Management, Supply Chain, Logistics, or Transportation**
+📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/marc-fleury-5591052a)**
+⚡ Fun fact: **After 15 years in logistics at Amazon, I decided to pivot into software development to chase a long-held dream. Now, I’m building open-source tools and exploring entrepreneurship in tech!**
 
-<!---
-marcvador03/marcvador03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🛠️ My Tech Stack
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+## 🌟 Featured Projects
+- **[Taskmaster](link)** – A process manager for Linux based on Supervisor, developed in a group of 2 in Go.
+- **[Transcendance](link)** – A real-time Pong game using React (frontend) and Express (backend), in a containerized solution (Docker) with a dedicated installer (Go).
+- **[Minishell](link)** – A project developed in C99 that mimics several features of Bash, including command execution, pipes, redirections, environment variables, and built-in commands.
+- **[FT IRC](link)** – A simple IRC server developed in C++98, adhering to the RFC 1459 and RFC 2810-2813 standards, supporting core IRC features like channels, user authentication, and basic commands.
