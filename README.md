@@ -21,6 +21,6 @@
 
 ## 🌟 Featured Projects
 - **[Taskmaster]([[link](https://github.com/mrlouf/taskmaster)])** – A process manager for Linux based on Supervisor, developed in a group of 2 in Go.
-- **[Transcendance](link)** – A real-time Pong game using React (frontend) and Express (backend), in a containerized solution (Docker) with a dedicated installer (Go).
-- **[Minishell](link)** – A project developed in C99 that mimics several features of Bash, including command execution, pipes, redirections, environment variables, and built-in commands.
-- **[FT IRC](link)** – A simple IRC server developed in C++98, adhering to the RFC 1459 and RFC 2810-2813 standards, supporting core IRC features like channels, user authentication, and basic commands.
+- **[Transcendance]([link](https://github.com/git-robi/ft_transcendence))** – A real-time Pong game using React (frontend) and Express (backend), in a containerized solution (Docker) with a dedicated installer (Go).
+- **[Minishell]([link](https://github.com/marcvador03/minishell))** – A project developed in C99 that mimics several features of Bash, including command execution, pipes, redirections, environment variables, and built-in commands.
+- **[FT IRC]([link](https://github.com/marcvador03/ft_irc))** – A simple IRC server developed in C++98, adhering to the RFC 1459 and RFC 2810-2813 standards, supporting core IRC features like channels, user authentication, and basic commands.
